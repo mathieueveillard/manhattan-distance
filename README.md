@@ -1,9 +1,3 @@
-# js-kata-starter
+# manhattan-distance
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+https://en.wikipedia.org/wiki/Taxicab_geometry
